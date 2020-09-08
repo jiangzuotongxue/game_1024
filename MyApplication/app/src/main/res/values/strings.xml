@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">1024游戏</string>
+    <string name="help">\n\n规则说明\n</string>
+    <string name="help1">1.每次可以选择上下左右其中一个方向去滑动,每滑动一次，所有的数字方块都会往滑动的方向靠拢外，系统也会在空白的地方乱数出现一个数字方块(2或者4)，相同数字的方块在靠拢、相撞时会相加。玩家要想办法在这小小的16格范围中凑出“1024”这个数字方块，才能或者最终胜利！</string>
+    <string name="help2">2.每次新增的数字方块，字体颜色是白色的，普通是黑子的，以供玩家区分对待\n3.游戏的画面很简单，一开整体16个方格大部分都是灰色的，当玩家拼图出现数字之后就会改变颜色，整体格调很是简单。\n</string>
+    <string name="help3">快点开始游戏吧！！！</string>
+    <string name="aboutAuthor">\n\n关于作者\n\n</string>
+    <string name="author">安徽工程大学软件182蔡伟\n2020\\7\\4</string>
+    <string name="returnback">《=返回主菜单</string>
+    <string name="restart">再来一局</string>
+    <string name="save">存档</string>
+    <string name="read">读档</string>
+</resources>
